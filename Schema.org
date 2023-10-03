@@ -1,0 +1,34 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://aitech331.000webhostapp.com/"
+  },
+  "headline": "My Website is based on AI",
+  "description": "Artificial Intelligence, AI Education, Machine Learning, Neural Networks, AI Resources, AI Tutorials, AI Community, AI Enthusiasts, Latest AI Trends, AI Projects, Innovation, AI Technology, Future of AI, AI News, AI Insights, Hands-On AI, AI Tools, Creative AI, Business Applications, AI Research",
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://aitech331.000webhostapp.com/img/hero-img.png",
+    "width": "",
+    "height": ""
+  },
+  "author": {
+    "@type": "Person",
+    "name": "XBEAST"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "XBEAST",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "datePublished": "2023-09-28",
+  "dateModified": "2023-09-29"
+}
+</script>
